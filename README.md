@@ -46,6 +46,8 @@ Kafka | RabbitMQ | MCP Server
 ## 📊 Language Focus:
 - ☕ Java ████████████████ 80%
 - 🌐 JavaScript █████ 20%
+  
+ ---
 
 🌟 Projects:
 🔍 MCP Log Analysis Server

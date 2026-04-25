@@ -43,17 +43,24 @@ Kafka | RabbitMQ | MCP Server
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 Language Focus:
+- ☕ Java ████████████████ 80%
+- 🌐 JavaScript █████ 20%
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sirfupendra\&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirfupendra\&layout=compact)
+🌟 Projects:
+🔍 MCP Log Analysis Server
 
----
+Built an intelligent MCP-based server that analyzes system logs using conversational queries. Enables dynamic log search, filtering, and insight extraction through LLM-powered interactions.
+Tech: Java, Spring Boot, OpenRouter LLM
 
-## 🌟 Projects:
+⚙️ Architect – Intelligent JSON Optimization Engine
 
-* IPL Player Analysis App
-* Smart Transportation System
-* Real-time Collaborative Coding Tool
+Designed a backend engine that converts unstructured text into optimized, structured JSON with high consistency and performance. Integrated message queues for scalable and asynchronous processing.
+Tech: Java, Spring Boot, SQL, RabbitMQ
+
+💳 FinFlow – Payment Gateway System
+
+Developed a secure and scalable payment processing system handling transactions, validations, and workflow orchestration with a focus on reliability and performance.
+Tech: Node.js, Express.js
 
 ---
